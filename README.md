@@ -19,6 +19,9 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+    </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
@@ -41,14 +44,17 @@
         <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtual-box" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
             <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-<!-- ******************************************************************************************************************-->
-<!--     </a>
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual-studio-code" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px;
+            padding: 2px;" />
+    </a>   
+        <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        </a>
+   <!--  </a>
         <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a> -->
-    <!-- ****************************************************************************************************************** -->
+        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />   
+    </a> 
+    -->
 <h3 align="center" style='margin: 0px 4px 8px; font-size: 24px;'>
     Stats
 </h3>
@@ -59,3 +65,4 @@
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=Opanch88&show_icons=true&locale=en&theme=gruvbox" alt="Opanch88" />
 </p>
+
